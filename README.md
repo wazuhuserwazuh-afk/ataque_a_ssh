@@ -10,7 +10,7 @@ Script interactivo en Bash para realizar ataques de fuerza bruta al protocolo SS
    ```bash
    chmod +x ssh_brute.sh
 
-   Claro, aquí tienes el README.md actualizado incluyendo una sección de Ejemplo de Uso que muestra exactamente cómo se ve la interacción con el script en la terminal.
+ 
 Markdown
 
 # SSH Multi-Thread Brute-Forcer
