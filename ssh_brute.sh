@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# --- VALIDACIÓN DE REQUISITOS ---
+# --- VALIDACIÓN DE REQUISITOS ----
 if ! command -v sshpass &> /dev/null; then
     echo "[-] Error: 'sshpass' no está instalado. Instálalo con: sudo apt install sshpass"
     exit 1
